@@ -6,12 +6,11 @@ package info5100.team.greeting;
 
 /**
  *
- * @author sravankumarkurapati
- * This is the main class to call greeting messages from all team members
+ * @author Lokesh
  */
-public class Main {
+public class Member2 {
     public static void main(String[] args){
-        Member1.main(args);
-        Member2.main(args);
+        System.out.println("Hello from  Member 2!");
     }
+    
 }
